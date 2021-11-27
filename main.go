@@ -16,7 +16,7 @@ type binanceResp struct {
 }
 
 func get_key() string{
-return	"2130453542:AAEHpTguBThnLr4hjYLQ1Q6t7zUOAnoklW4"
+return	"key_secret"
 }
 
 type wallet map[string]float64
